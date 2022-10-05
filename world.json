@@ -1,0 +1,16 @@
+{
+  "title": "Terthei",
+  "description": "<p>A continent once ruled by four gods now trembles as old shadows stir...</p>",
+  "version": "1.0.0",
+  "system": "dnd5e",
+  "background": "worlds/terthei/background.png",
+  "coreVersion": "10.286",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.0.3",
+  "id": "terthei",
+  "compatibility": {
+    "verified": "10.286",
+    "minimum": "10"
+  }
+}
