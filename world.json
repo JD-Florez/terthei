@@ -4,13 +4,13 @@
   "version": "1.0.0",
   "system": "dnd5e",
   "background": "worlds/terthei/background.png",
-  "coreVersion": "10.286",
+  "coreVersion": "10.287",
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "2.0.3",
   "id": "terthei",
   "compatibility": {
-    "verified": "10.286",
+    "verified": "10.287",
     "minimum": "10"
   }
 }
